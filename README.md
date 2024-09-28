@@ -10,7 +10,7 @@ Designed and developed a PyQt5-based GUI that imports experimental electromagnet
 
 ### Pegasus-III Helix Fitting Project (24/7 ~ 24/8)
 During this period, we focused on developing and refining code for simulating and fitting helices to the magnetic field data collected from the Pegasus-III experiment. 
-###### Helix Simulation and Fitting:
+#### Helix Simulation and Fitting:
 Developed a Python-based simulation model (bdots_helix_fitting.py) that generates 3D helices, simulates their magnetic field values (BzDot), and fits these helices to experimental data.
 
 
