@@ -19,7 +19,7 @@ During this period, we focused on developing and refining code for simulating an
      - Fit these helices to experimental data.
 
 2. **Fitting Algorithms:**
-   - Implemented various fitting algorithms, including:
+   - Applied various optimization fitting algorithms, including:
      - Local optimization methods (e.g., Powell, Nelder-Mead).
      - Global optimization methods (e.g., Differential Evolution, Basin Hopping).
 
