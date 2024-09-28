@@ -19,16 +19,16 @@ During this period, we focused on developing and refining code for simulating an
      - Fit these helices to experimental data.
 
 2. **Fitting Algorithms:**
-   - Applied various optimization fitting algorithms, including:
+   - Applied various optimization fitting algorithms, including:
      - Local optimization methods (e.g., Powell, Nelder-Mead).
      - Global optimization methods (e.g., Differential Evolution, Basin Hopping).
 
-3. **Randomized Guessing for Improved Accuracy:**
+4. **Randomized Guessing for Improved Accuracy:**
    - Created the `loop_guess_run_fitting()` function to:
      - Handle multiple randomized guesses of the initial fitting parameters.
      - Mitigate sensitivity to poor initial guesses by exploring a wide parameter space.
 
-4. **Error/Objective Function Visualization:**
+5. **Error/Objective Function Visualization:**
    - Developed the `make_obj_func_plots()` method to:
      - Generate plots of the objective function for each fitting parameter.
      - Visualize the error surface and identify local minima for accurate fitting.
