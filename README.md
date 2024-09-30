@@ -13,7 +13,7 @@ During this period, we focused on developing and refining code for simulating an
 ### Key Achievements:
 
 1. **Helix Simulation and Fitting:**
-   - Developed a Python-based simulation model (`bdots_helix_fitting.py`) to:
+   - Developed a Python-based simulation model (`bdots_helix_fitting.py`):
      - Generate 3D helices.
      - Simulate their magnetic field values (BzDot).
      - Fit these helices to experimental data.
@@ -24,12 +24,12 @@ During this period, we focused on developing and refining code for simulating an
      - Global optimization methods (e.g., Differential Evolution, Basin Hopping).
 
 4. **Randomized Guessing for Improved Accuracy:**
-   - Created the `loop_guess_run_fitting()` function to:
+   - Created the `loop_guess_run_fitting()` function:
      - Handle multiple randomized guesses of the initial fitting parameters.
      - Mitigate sensitivity to poor initial guesses by exploring a wide parameter space.
 
 5. **Error/Objective Function Visualization:**
-   - Developed the `make_obj_func_plots()` method to:
+   - Developed the `make_obj_func_plots()` method:
      - Generate plots of the objective function for each fitting parameter.
      - Visualize the error surface and identify local minima for accurate fitting.
 
