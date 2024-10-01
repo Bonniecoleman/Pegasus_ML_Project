@@ -8,7 +8,7 @@ Designed and developed a PyQt5-based GUI that imports experimental electromagnet
 
 ## Pegasus-III Helix Fitting Project (24/7 ~ 24/8)
 
-During this period, we focused on developing and refining code for simulating and fitting helices to the magnetic field data collected from the Pegasus-III experiment.
+During this period, we focused on developing and refining IgorPro code into python for simulating and fitting helices to the magnetic field data collected from the Pegasus-III experiment. 
 
 ### Key Achievements:
 
