@@ -1,6 +1,6 @@
 # Pegasus_ML_Project
 
-I am currently working as an ML/AI Undergraduate intern at [the Pegasus Research Group](https://pegasus.ep.wisc.edu/). 
+I am currently working as a ML/AI Undergraduate intern at [the Pegasus Research Group](https://pegasus.ep.wisc.edu/). 
 The Pegasus-III Experiment, funded by the U.S. Department of Energy, focuses on advancing Fusion Energy and Plasma Science.
 
 ## Pegasus-III GUI (24/5 ~ 24/7)
