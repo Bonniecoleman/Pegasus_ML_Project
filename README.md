@@ -4,7 +4,7 @@ I am currently working as a ML/AI Undergraduate intern at [the Pegasus Research 
 The Pegasus-III Experiment, funded by the U.S. Department of Energy, focuses on advancing Fusion Energy and Plasma Science.
 [Published Research](https://meetings.aps.org/Meeting/DPP24/Session/JP12.74)
 
-Codes are not released on GitHub. 
+All code is confidential.
 
 ## Pegasus-III GUI (24/5 ~ 24/7)
 Designed and developed a PyQt5-based GUI that imports experimental electromagnetic data from internal servers, enabling researchers to efficiently visualize and interact with the data. 
